@@ -1,0 +1,30 @@
+{
+  "name": "cleardiscordcommands",
+  "description": "This is a simple script to clear all guild AND global commands for a Discord bot.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^13.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanPlayz0/ClearDiscordCommands.git"
+  },
+  "keywords": [
+    "clean",
+    "discord",
+    "commands",
+    "cleaner",
+    "commandclean"
+  ],
+  "author": "DanPlayz0",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DanPlayz0/ClearDiscordCommands/issues"
+  },
+  "homepage": "https://github.com/DanPlayz0/ClearDiscordCommands#readme"
+}
