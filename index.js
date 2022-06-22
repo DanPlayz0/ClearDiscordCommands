@@ -1,5 +1,5 @@
 const Discord = require('discord.js');
-const config = require('config.js');
+const config = require('./config.js');
 if(!config) throw Error('Config file not found!');
 const client = new Discord.Client({
   intents: ['GUILDS']
